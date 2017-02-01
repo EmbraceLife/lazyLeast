@@ -1,1 +1,2 @@
 # lazyLeast
+Make intuition prority
